@@ -1,0 +1,6 @@
+pip install pttsx3 
+pip install SpeechRecognition
+pip install PyAudio
+pip install setuptools
+pip install wikipedia
+pip install playsound
