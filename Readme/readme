@@ -1,0 +1,14 @@
+Step1 : Create Virtual Env 
+
+Step 2 : Install these Libraries at once wihtout these Your file Wont run 
+pip install pttsx3 
+pip install SpeechRecognition
+pip install PyAudio
+pip install setuptools
+pip install wikipedia
+pip install playsound
+pip install groq
+
+
+groqcloud
+api key = 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

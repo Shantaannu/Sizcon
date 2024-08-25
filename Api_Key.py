@@ -1,0 +1,4 @@
+
+# api_key = "sk-JnOSOsefz2ls74GkLlKr8edOotg5Adth83MzNOG6NRT3BlbkFJOPoWDUZ0gm8wT7fyaBrpwtWWhvAXYEw8GdPB3S3cIA"
+
+api_data = "sk-JnOSOsefz2ls74GkLlKr8edOotg5Adth83MzNOG6NRT3BlbkFJOPoWDUZ0gm8wT7fyaBrpwtWWhvAXYEw8GdPB3S3cIA"
